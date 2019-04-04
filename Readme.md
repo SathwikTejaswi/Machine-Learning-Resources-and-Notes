@@ -18,7 +18,7 @@ NOTE :
  - UIUC COMPUTER VISION BY PROF SVETLANA LAZEBNIK http://slazebni.cs.illinois.edu/spring19/ (this is the official site) AND https://github.com/namanUIUC/ComputerVision (amazing documentation of the same by NamanUIUC)
  - CS 231n STANFORD Prof Fei Fei Li and Justin Johnson http://cs231n.stanford.edu/
 
-## Deep Learning
+## DEEP LEARNING
 
 - The Deep Learning Book by Iam Goodfellow et al. https://www.deeplearningbook.org/ (ORIGINAL)
 - The Deep Learning Book in PDF format https://github.com/janishar/mit-deep-learning-book-pdf
