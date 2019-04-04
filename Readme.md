@@ -8,7 +8,12 @@ NOTE :
 - I do not own copyrights to any of the materials that have been listed here. 
 - The links that I have posted below might not be active currently. In case you found some please let me know and I will update the repository accordingly
 
-## Linear Algebra
+## LINEAR ALGEBRA
 
 - UIUC MATH 415 APPLIED LINEAR ALGEBRA https://faculty.math.illinois.edu/~icontrer/MATH415_Ivan_S18.html
 - MITOCW MATH 415 LINEAR ALGEBRA BY PROF GILBERT STRANG https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+
+ ## COMPUTER VISION
+ 
+ - UIUC COMPUTER VISION BY PROF SVETLANA LAZEBNIK http://slazebni.cs.illinois.edu/spring19/ (this is the official site) AND https://github.com/namanUIUC/ComputerVision (amazing documentation of the same by NamanUIUC)
+ - CS 231n STANFORD Prof Fei Fei Li and Justin Johnson http://cs231n.stanford.edu/
