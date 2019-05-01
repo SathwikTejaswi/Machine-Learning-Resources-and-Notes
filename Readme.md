@@ -20,7 +20,7 @@ NOTE :
 
 - The Deep Learning Book by Iam Goodfellow et al. https://www.deeplearningbook.org/ (ORIGINAL)
 - The Deep Learning Book in PDF format https://github.com/janishar/mit-deep-learning-book-pdf
-- Amazing notes for deep learning with implementation code http://d2l.ai/chapter_natural-language-processing/index.html
+- Amazing notes for deep learning with implementation code http://d2l.ai/index.html
 
 ## DEEP LEARNING IMPLEMENTATION RELATED
 - Deep Learning frameworks bench mark by soumith chintala shows intel nervana neon is the fastest https://github.com/soumith/convnet-benchmarks 
