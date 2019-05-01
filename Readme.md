@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning Resources
 
 Being an ML enthuiast, I am always on the look out for resources that would help me to better understand the math and the algorithmic perspective of machine learning. Every time I find a new Lecture video series/Lecture notes/Reference books etc, I update this repository.
 
