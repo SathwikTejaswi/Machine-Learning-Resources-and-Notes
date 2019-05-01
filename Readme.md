@@ -1,6 +1,4 @@
-# Machine Learning Treasure Trove
-
-If you were expecting some kind of a monetary give away, I am sure you are dissappointed.
+# Machine Learning
 
 Being an ML enthuiast, I am always on the look out for resources that would help me to better understand the math and the algorithmic perspective of machine learning. Every time I find a new Lecture video series/Lecture notes/Reference books etc, I feel as though I actually found treasure, hence the name. This repository enlists all the resources that has enabled me to delve deeper into the world of machine learning and helped me to improve as a reseacher and practitioner.
 
@@ -10,12 +8,12 @@ NOTE :
 
 ## LINEAR ALGEBRA
 
-- UIUC MATH 415 APPLIED LINEAR ALGEBRA https://faculty.math.illinois.edu/~icontrer/MATH415_Ivan_S18.html
-- MITOCW MATH 415 LINEAR ALGEBRA BY PROF GILBERT STRANG https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
+- UIUC MATH 415 Applied Linear Algebra https://faculty.math.illinois.edu/~icontrer/MATH415_Ivan_S18.html
+- MITOCW MATH 415 Linear Algebra by Gilbert Strang https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/
 
  ## COMPUTER VISION
  
- - UIUC COMPUTER VISION BY PROF SVETLANA LAZEBNIK http://slazebni.cs.illinois.edu/spring19/ (this is the official site) AND https://github.com/namanUIUC/ComputerVision (amazing documentation of the same by NamanUIUC)
+ - UIUC COMPUTER VISION by Prof Svetlana Lazebnik http://slazebni.cs.illinois.edu/spring19/ (this is the official site) and https://github.com/namanUIUC/ComputerVision (amazing documentation of the same by NamanUIUC)
  - CS 231n STANFORD Prof Fei Fei Li and Justin Johnson http://cs231n.stanford.edu/
 
 ## DEEP LEARNING
@@ -23,3 +21,10 @@ NOTE :
 - The Deep Learning Book by Iam Goodfellow et al. https://www.deeplearningbook.org/ (ORIGINAL)
 - The Deep Learning Book in PDF format https://github.com/janishar/mit-deep-learning-book-pdf
 - Amazing notes for deep learning with implementation code http://d2l.ai/chapter_natural-language-processing/index.html
+
+## DEEP LEARNING IMPLEMENTATION RELATED
+- Deep Learning frameworks bench mark by soumith chintala shows intel nervana neon is the fastest https://github.com/soumith/convnet-benchmarks 
+- Intel Nervana neon http://neon.nervanasys.com/docs/latest/index.html
+- ONNX or Open Neural Network Exchange Format for convert models in one framework to the other https://onnx.ai/
+- Visual DL -> a tool to visualize and monitor neural network training.
+- Netron -> a tool that produces a visualization of the model architecture. It takes the actual model as the input! Preety cool
