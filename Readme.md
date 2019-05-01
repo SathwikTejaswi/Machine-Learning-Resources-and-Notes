@@ -26,5 +26,5 @@ NOTE :
 - Deep Learning frameworks bench mark by soumith chintala shows intel nervana neon is the fastest https://github.com/soumith/convnet-benchmarks 
 - Intel Nervana neon http://neon.nervanasys.com/docs/latest/index.html
 - ONNX or Open Neural Network Exchange Format for convert models in one framework to the other https://onnx.ai/
-- Visual DL -> a tool to visualize and monitor neural network training.
-- Netron -> a tool that produces a visualization of the model architecture. It takes the actual model as the input! Preety cool
+- Visual DL -> a tool to visualize and monitor neural network training http://visualdl.paddlepaddle.org/
+- Netron -> a tool that produces a visualization of the model architecture. It takes the actual model as the input. https://github.com/lutzroeder/Netron
