@@ -1,6 +1,6 @@
 # Machine Learning
 
-Being an ML enthuiast, I am always on the look out for resources that would help me to better understand the math and the algorithmic perspective of machine learning. Every time I find a new Lecture video series/Lecture notes/Reference books etc, I feel as though I actually found treasure, hence the name. This repository enlists all the resources that has enabled me to delve deeper into the world of machine learning and helped me to improve as a reseacher and practitioner.
+Being an ML enthuiast, I am always on the look out for resources that would help me to better understand the math and the algorithmic perspective of machine learning. Every time I find a new Lecture video series/Lecture notes/Reference books etc, I update this repository.
 
 NOTE : 
 - I do not own copyrights to any of the materials that have been listed here. 
